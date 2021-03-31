@@ -1,0 +1,464 @@
+@media all and (max-width:1335px) {
+    .header-menubar li a {
+        padding: 25px 16px;
+    }
+    .slider-section {
+        background-attachment: inherit;
+    }
+    .slider-content h1 {
+        font-size: 66px;
+
+    }
+    .navbar-toggler {
+    margin-left: 11px;
+    display: block;
+    margin-top: 15px;
+    margin-right: 100%;
+    color: #07a9c4 !important;
+    border-color: #078a72 !important;
+    background-color: #b1c4d5;
+    }
+   
+}
+
+@media all and (max-width:1280px) {
+    .header-menubar li a {
+        padding: 25px 13px;
+        font-size: 14px;
+
+    }
+    .slider-content h1 {
+        font-size: 63px;
+    }
+}
+
+
+@media all and (max-width:1199px) {
+    .header-button .button {
+
+        padding: 12px 29px;
+
+    }
+    .header-information {
+        position: absolute;
+        left: 56%;
+        top: 22px;
+    }
+    .header-menubar li:hover ul {
+        top: 46%;
+        left: 95px;
+    }
+    .header-menubar li a {
+        line-height: 0px;
+        height: 37px;
+    }
+    .header-menubar li ul {
+        left: 9%;
+        padding: 3px 0;
+        width: auto;
+    }
+    .slider-content h1 {
+        font-size: 56px;
+    }
+    .finix-text h3 {
+        font-size: 34px;
+        font-weight: 400;
+        line-height: 46px;
+    }
+    .apply-now-header-content h3 {
+        font-size: 31px;
+        font-weight: 400;
+    }
+    .call-section .call-section-bg {
+
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .call-section .call-section-bg h3 {
+        font-size: 31px;
+    }
+    .call-section .call-section-bg span {
+        height: 65px;
+        width: 65px;
+        line-height: 65px;
+        margin-top: 23px;
+        border-radius: 50%;
+    }
+    .call-section .call-section-bg a {
+        font-size: 27px;
+        margin-top: 45px;
+    }
+}
+
+
+
+@media all and (max-width:1090px) {
+    .header-information .header-serch span {
+        font-size: 20px;
+    }
+    .header-information .header-contact .header-contact-icon span {
+        font-size: 33px;
+    }
+    .header-information .header-contact-content a {
+        font-size: 14px;
+    }
+    .header-information .header-contact-content span {
+        font-size: 15px;
+    }
+    .header-button .button {
+        padding: 12px 25px;
+        font-size: 13px;
+    }
+    .header-information .header-serch {
+        width: 45px;
+        margin-right: 11px;
+    }
+    .header-information {
+        position: absolute;
+        left: 56%;
+        top: 22px;
+    }
+    .slider-content h1 {
+        font-size: 45px
+
+    }
+    .finix-text h3 {
+        font-size: 31px;
+        font-weight: 400;
+    }
+    .finix-text p {
+        font-size: 15px;
+    }
+    .call-section .call-section-bg h3 {
+        font-size: 27px;
+    }
+    .call-section .call-section-bg a {
+        font-size: 16px;
+        margin-top: 35px;
+    }
+    .call-section .call-section-bg span {
+        height: 55px;
+        width: 55px;
+        line-height: 55px;
+        margin-top: 23px;
+        border-radius: 50%;
+        font-size: 30px;
+    }
+    .apply-condition ul::before {
+        height: calc(100% - 120px);
+     }
+     .service-tab ul li {
+        width: 42%;
+        font-size: 14px;
+    }
+    .client-sty-section .client-sty-contant p {
+        width: 350px;
+        font-size: 18px;
+    }
+    .business-text h2 {
+        font-size: 28px;
+    }
+    .business-text p {
+        font-size: 15px;
+    }
+    .social-icon ul li a {
+        font-size: 21px;
+        height: 38px;
+        width: 38px;
+        line-height: 38px;
+        margin-right: 3px;
+
+    }
+    .social-icon {
+        top: 73%;
+
+    }
+    .col-lg-3 {
+        width: 50%;
+    }
+    .social-icon {
+        left: -36%;
+    }
+}
+
+@media all and (max-width:900px) {
+    .social-icon {
+        top: 60%;
+    }
+    .member-text h2 {
+        margin-top: 30px;
+        font-size: 18px;
+    }
+    .social-icon ul li a {
+        font-size: 17px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+}
+
+
+@media all and (max-width:876px) {
+    .header-information {
+        position: absolute;
+        left: 40%;
+        top: 22px;
+    }
+    .header-information .header-contact {
+        width: 175px;
+    }
+    .slider-content h1 {
+        font-size: 28px;
+    }
+    .slider-content p {
+        font-size: 15px;
+    }
+    .finix-text h3 {
+        font-size: 23px;
+    }
+    .business-text h2 {
+        font-size: 29px;
+        margin-top: 12px;
+        margin-bottom: 13px;
+    }
+    .business-text p {
+        font-size: 14px;
+    }
+    .apply-now-header-content h3 {
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+    .apply-now-header-content span {
+        font-size: 15px;
+    }
+    .calculate-from .apply {
+        font-size: 14px;
+        padding: 12px 14px;
+
+    }
+    .apply-now-content-left h3 {
+        font-size: 28px;
+    }
+    .apply-condition ul li h4 {
+        font-size: 20px;
+    }
+    .apply-condition ul li p {
+        font-size: 14px;
+    }
+    .apply-now-content-right {
+        margin-top: 30%;
+    }
+    .apply-condition ul::before {
+        height: calc(100% - 100px);
+    }
+    .company-content h3 {
+        font-size: 33px;
+        font-weight: 400;
+    }
+    .service-tab ul li {
+        width: 33%;
+    }
+    .social-icon {
+        top: 75%;
+    }
+    .social-icon ul li a {
+        font-size: 15px;
+        height: 29px;
+        width: 29px;
+        line-height: 29px;
+        text-align: center;
+        padding-left: 8px;
+    }
+    .member-text p {
+        font-size: 16px;
+    }
+    .social-icon ul li a {
+        font-size: 15px;
+        height: 28px;
+        width: 28px;
+        line-height: 28px;
+        text-align: center;
+        padding-left: 8px;
+    }
+    .social-icon {
+        left: -12%;
+    }
+}
+
+@media all and (max-width:768px) {
+    .apply-condition ul::before {
+        height: calc(100% - 150px);
+    }
+    .call-section .call-section-bg h3 {
+        font-size: 19px;
+    }
+    .call-section .call-section-bg span {
+        height: 45px;
+        width: 55px;
+        line-height: 45px;
+        margin-top: 23px;
+        font-size: 25px;
+    }
+    .call-section .call-section-bg a {
+        font-size: 16px;
+        margin-top: 23px;
+    }
+    .company-content h3 {
+        font-size: 26px;
+    }
+    .item-text h4 {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+    .item-text p {
+        font-size: 15px;
+    }
+    .client-sty-section .client-sty-contant p {
+        font-size: 16px;
+        font-weight: 400;
+        width: 278px;
+        line-height: 26px;
+    }
+    .service-tab ul li {
+        width: 40%;
+    }
+    .col-sm-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+    .social-icon {
+        top: 69%;
+    }
+    .success-contant-text h3 a {
+        font-size: 23px;
+    }
+    .img-icon i {
+        top: 145px;
+        left: 60px;
+    }
+ 
+}
+
+@media all and (max-width:576px) {
+    .header-information {
+        position: absolute;
+        left: 31%;
+        top: 85px;
+    }
+    .header-button .button {
+        padding: 12px 25px;
+        font-size: 13px;
+        position: absolute;
+        top: 125%;
+        left: 57px;
+    }
+    .slider-content h1 {
+        font-size: 21px;
+        width: 198px;
+        font-weight: 400;
+    }
+    .slider-content p {
+        font-size: 13px;
+        width: 178px;
+    }
+    .business-text h2 {
+        font-size: 27px;
+        margin-top: 12px;
+        margin-bottom: 13px;
+        font-weight: 400;
+    }
+    .business-text p {
+        font-size: 12px;
+    }
+    .apply-condition ul::before {
+        height: calc(100% - 70px);
+    }
+    .call-section .call-section-bg h3 {
+        border-right: none;
+    }
+    .call-section .call-section-bg span {
+        width: 45px;
+        margin-top: 17px;
+        margin-right: 13px;
+    }
+    .service-tab ul li {
+        width: 50%;
+        text-align: center;
+        display: block;
+        margin-left: 0 !important;
+        font-size: 12px;
+    }
+    .client-sty-section .client-sty-contant p {
+        font-size: 17px;
+        font-weight: 500;
+        width: 350px;
+        line-height: 30px;
+    }
+    .social-icon ul {
+        margin-left: 0px;
+    }
+    .social-icon {
+        top: 65%;
+    }
+    .success-contant-text h3 a {
+        font-size: 24px;
+    }
+    .col-lg-3 {
+        width: 100%;
+    }
+}
+
+@media all and (max-width:468px) {
+    .col-sm-3 {
+        width: 100%;
+    }
+    .social-icon {
+        top: 73%;
+    }
+    .success-contant-text h3 a {
+        font-size: 23px;
+        font-weight: 400;
+    }
+}
+
+
+@media all and (max-width:376px) {
+    .slider-content h1 {
+        font-size: 17px;
+        width: 166px;
+    }
+    .slider-content p {
+        font-size: 13px;
+        width: 147px;
+    }
+    .apply-condition ul::before {
+        height: calc(100% - 98px);
+    }
+    .call-section .call-section-bg h3 {
+        border-right: none;
+    }
+    .client-sty-section .client-sty-contant p {
+        font-size: 15px;
+        width: 300px;
+        line-height: 30px;
+    }
+    .business-text h2 {
+        font-size: 22px
+    }
+    .business-text p {
+        font-size: 12px;
+        width: 300px;
+        margin-left: -10px;
+    }
+    .social-icon {
+        top: 67%;
+    }
+    .success-contant-text a {
+        font-size: 13px;
+    }
+    .service-tab strong {
+        font-size: 12px;
+
+    }
+}
